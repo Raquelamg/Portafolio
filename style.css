@@ -373,7 +373,7 @@ width: 50%;
         font-size: 12px;
     }
 }
-@media (max-width:480px){
+@media (max-width:800px){
     .menu__container{
         display: none;}
     
